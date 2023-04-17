@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pankaj-sharma01/ToDo-React/static/css/main.2ab23b66.css",
+    "main.js": "/pankaj-sharma01/ToDo-React/static/js/main.408cbf8c.js",
+    "index.html": "/pankaj-sharma01/ToDo-React/index.html",
+    "main.2ab23b66.css.map": "/pankaj-sharma01/ToDo-React/static/css/main.2ab23b66.css.map",
+    "main.408cbf8c.js.map": "/pankaj-sharma01/ToDo-React/static/js/main.408cbf8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ab23b66.css",
+    "static/js/main.408cbf8c.js"
+  ]
+}
